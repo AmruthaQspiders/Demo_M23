@@ -1,0 +1,19 @@
+Task
+
+1. Create a folder Student_Project
+2. Initialize it as a git repository
+3. Create 3 files :
+    - student
+    - marks
+    - details
+
+4. Check repository status
+5. Stage only student
+6. Check status again
+7. Stage the remaining files (marks and details)
+8. Commit all the staged files with a message "Initial commit"
+9. Modify student by adding some lines
+10. Check the status of the repository to see the changes made to student
+11. Stage the modified student file
+12. Commit the changes to student with a message "Updated student file"
+13. Display the commit history to see all the commits made in the repository
